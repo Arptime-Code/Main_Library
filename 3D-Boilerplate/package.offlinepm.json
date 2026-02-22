@@ -1,16 +1,15 @@
 {
   "name": "3D-Boilerplate",
-  "description": "",
+  "description": "All boilerplate function to later be able to quickly setup webgl2 for 3D",
   "dependencies": [],
   "functions": [
     {
-      "name": "exampleFunction",
+      "name": "boilerplate3D",
       "parameters": [
-        "param1",
-        "param2"
+        "inputCanvas"
       ],
-      "import": "const { exampleFunction } = require('./path/to/module')",
-      "description": "Description of what this function does"
+      "import": "const boilerplate3D = require('./boilerplate.js')",
+      "description": "Sets up the gl object for later use"
     }
   ]
 }

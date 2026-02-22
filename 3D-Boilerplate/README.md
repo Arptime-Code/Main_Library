@@ -1,14 +1,13 @@
 # 3D-Boilerplate
 
 ## Description
-<!-- Add your project description here -->
+All boilerplate function to later be able to quickly setup webgl2 for 3D
 
 ## Functions
 
-<!-- List your functions below -->
 | Function | Parameters | Import | Description |
 |----------|-----------|--------|-------------|
-| exampleFunction | param1, param2 | `import { exampleFunction } from './path'` | Description of what it does |
+| boilerplate3D | inputCanvas | `const boilerplate3D = require('./boilerplate.js')` | Sets up the gl object for later use |
 
 ## Installation
 
