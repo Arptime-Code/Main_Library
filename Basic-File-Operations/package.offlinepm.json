@@ -1,0 +1,16 @@
+{
+  "name": "Basic-File-Operations",
+  "description": "",
+  "dependencies": [],
+  "functions": [
+    {
+      "name": "exampleFunction",
+      "parameters": [
+        "param1",
+        "param2"
+      ],
+      "import": "const { exampleFunction } = require('./path/to/module')",
+      "description": "Description of what this function does"
+    }
+  ]
+}
